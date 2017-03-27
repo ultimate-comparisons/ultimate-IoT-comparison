@@ -23,7 +23,7 @@ Fully decentralized open-source platform.
 - Yes
 
 ## Description
-OpenIoT platform is an open-source platform, fully decentralized, that provides connectivity with constrained devices such as sensors. The platform provides a billing mechanism for the use of services.#
+OpenIoT platform is an open-source platform, fully decentralized, that provides connectivity with constrained devices such as sensors. The platform provides a billing mechanism for the use of services.
 
 ## Integrity and Confidentiality
 - No
