@@ -33,7 +33,6 @@
       {"name": "Robots"},
       {"name": "SaaS"},
       {"name": "Server"}
-
     ]
   },
   {
@@ -46,8 +45,7 @@
       {"name": "Cloud-based"},
       {"name": "Centralized"},
       {"name": "Decentralized"},
-      {"name": "Distributed"},
-
+      {"name": "Distributed"}
     ]
   },
   {
@@ -66,7 +64,6 @@
       {"name": "LGPLv3"},
       {"name": "Libraries only"},
       {"name": "M.I.T"}
-
     ]
   },
   {
@@ -105,8 +102,6 @@
       {"name": "User-based priviliges"},
       {"name": "User's choice"},
       {"name": "XACML"}
-
-
     ]
   },
   {
@@ -121,7 +116,7 @@
       {"name": "n.a."},
       {"name": "Limited"}
     ]
-  }
+  },
   {
     "name": "Integrity and Confidentiality",
     "tag": "Integrity and Confidentiality",
@@ -130,8 +125,7 @@
     "and_search": false,
     "values": [
       {"name": "Yes"},
-      {"name": "No"},
-
+      {"name": "No"}
     ]
   },
   {
@@ -142,8 +136,7 @@
     "and_search": false,
     "values": [
       {"name": "Yes"},
-      {"name": "No"},
-
+      {"name": "No"}
     ]
   },
   {
@@ -154,8 +147,7 @@
     "and_search": false,
     "values": [
       {"name": "Yes"},
-      {"name": "No"},
-
+      {"name": "No"}
     ]
   },
   {
@@ -166,8 +158,7 @@
     "and_search": false,
     "values": [
       {"name": "Yes"},
-      {"name": "No"},
-
+      {"name": "No"}
     ]
   },
   {
@@ -178,8 +169,7 @@
     "and_search": false,
     "values": [
       {"name": "Yes"},
-      {"name": "No"},
-
+      {"name": "No"}
     ]
   },
   {
@@ -190,8 +180,7 @@
     "and_search": false,
     "values": [
       {"name": "Yes"},
-      {"name": "No"},
-
+      {"name": "No"}
     ]
   },
   {
@@ -202,8 +191,7 @@
     "and_search": false,
     "values": [
       {"name": "Yes"},
-      {"name": "No"},
-
+      {"name": "No"}
     ]
   },
   {
@@ -214,8 +202,7 @@
     "and_search": false,
     "values": [
       {"name": "Yes"},
-      {"name": "No"},
-
+      {"name": "No"}
     ]
   },
   {
@@ -226,8 +213,7 @@
     "and_search": false,
     "values": [
       {"name": "Yes"},
-      {"name": "No"},
-
+      {"name": "No"}
     ]
   },
   {
@@ -238,8 +224,7 @@
     "and_search": false,
     "values": [
       {"name": "Yes"},
-      {"name": "No"},
-
+      {"name": "No"}
     ]
   },
   {
@@ -251,8 +236,7 @@
     "values": [
       {"name": "Yes"},
       {"name": "Yes (MQTT"},
-      {"name": "No"},
-
+      {"name": "No"}
     ]
   }
 ]
