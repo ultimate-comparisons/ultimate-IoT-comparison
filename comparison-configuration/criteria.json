@@ -234,8 +234,10 @@
     "placeholder": "Select support of IoT-specific protocols ...",
     "and_search": false,
     "values": [
-      {"name": "Yes"},
-      {"name": "Yes (MQTT"},
+      {"name": "MQTT"},
+      {"name": "AMQP"},
+      {"name": "CoAP"},
+      {"name": "Others"},
       {"name": "No"}
     ]
   }

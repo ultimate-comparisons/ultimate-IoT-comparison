@@ -19,127 +19,76 @@ This is an ultimate comparison of IoT platforms.
 
 
 ## IoT Platform Specification
+A full list of all criteria and their values can be found [here](https://github.com/ultimate-comparisons/ultimate-IoT-platform-comparison/blob/master/comparison-configuration/description.md).
+
 The code below shows a sample element.
 
     # Default Platform - http://default-platform.com
     Default short desciption.
-
-   ## Support of heterogeneous devices
-	- Yes
-	- No
-	- Embedded devices
-	- Ethernet enabled
-	- Home devices
-	- Needs gateway
-	- RFID
-	- Robots
-
-	## Type
-	- Client/Server
-	- Hub
-	- M2M
-	- Mesh
-	- OS
-	- P2P
-	- PaaS
-	- Robots
-	- SaaS
-	- Server
-
-	## Architecture
-	- Cloud-based
-	- Centralized
-	- Decentralized
-	- Distributed
-
-	## Open source
-	- Yes
-	- No
-	- Affero GNU Public License
-	- Apache 2.0
-	- Client open source
-	- Gateway firmware open source
-	- LGPLv3
-	- Libraries only
-	- M.I.T
-
-	## REST
-	- n.a.
-	- No
-	- Yes
-	- CoAP
-
-	## Data access control
-	- Yes
-	- No
-	- 2 levels
-	- 3 levels
-	- 4 levels
-	- Facebook like privacy settings
-	- Fine-grained
-	- Locally stored
-	- n.a.
-	- No storage
-	- OAuth2
-	- Role-based
-	- Secured access
-	- User-based privileges
-	- User's choice
-	- XACML
-
-	## Service discovery
-	- Yes
-	- No
-	- Limited
-	- n.a.
-
-	## Integrity and Confidentiality
-	- Yes
-	- No
-
-	## Consent
-	- Yes
-	- No
-
-	## Policy-based access control
-	- Yes
-	- No
-
-	## Authentication
-	- Yes
-	- No
-
-	## Federated Identity
-	- Yes
-	- No
-
-	## Secure Device Identity
-	- Yes
-	- No
-
-	## Anonymous Identities
-	- Yes
-	- No
-
-	## Attestation
-	- Yes
-	- No
-
-	## Summarisation and Filtering
-	- Yes
-	- No
-
-	## Context-based security and Reputation
-	- Yes
-	- No
-
-	## IoT-specific Protocol Support
-	- Yes
-	- Yes (MQTT)
-	- No
-
-	## Description
-	Default __platform__ description in markdown.
+    
+    ## Support of heterogeneous devices
+    - Yes
+    - No
+    - Needs gateway
+    - RFID
+    - Embedded devices
+    - Home devices
+    - Ehternet enabled
+    
+    ## Type
+    - M2M 
+    - SaaS
+    - PaaS
+    - Server
+    - P2P
+    - Hub
+    - client/Server
+    - OS
+    - Robots
+    
+    ## Architecture
+    - Cloud-based
+    - Centralized
+    - Decentralized
+    
+    ## Open source
+    - Yes
+    - Libraries only
+    - Client open source
+    - Gateway firmware open source
+    - No
+    - Apache 2.0
+    - LGPLv3
+    - Affero GNU Public License
+    
+    ## REST
+    - n.a.
+    - No
+    - Yes
+    - CoAP
+    
+    ## Data access control
+    - OAuth2
+    - Secured access
+    - n.a.
+    - Role-based
+    - User's choice
+    - 4 levels
+    - Locally stored
+    - No storage
+    - 3 levels
+    - User-based privileges
+    - Facebook like privacy settings
+    - Fine-grained
+    - 2 levels
+    
+    ## Service discovery
+    - No
+    - Yes
+    - Limited
+    
+    ## Description
+    Default __platform__ description in markdown.
 
 
 

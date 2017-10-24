@@ -111,9 +111,10 @@ Default short desciption.
 - No
 
 ## IoT-specific Protocol Support
-- Yes
-- Yes (MQTT)
+- MQTT
+- AMQP
+- CoAP
+- Others
 - No
-
 ## Description
 Default __platform__ description in markdown.
