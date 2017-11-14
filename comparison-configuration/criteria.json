@@ -99,7 +99,7 @@
       {"name": "OAuth2"},
       {"name": "Role-based"},
       {"name": "Secured access"},
-      {"name": "User-based priviliges"},
+      {"name": "User-based privileges"},
       {"name": "User's choice"},
       {"name": "XACML"}
     ]

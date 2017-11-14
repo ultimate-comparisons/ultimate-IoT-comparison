@@ -36,6 +36,7 @@ This criteria describes the type of the platform.[1]
 - Client/Server
 - Hub
 - M2M
+- Mesh
 - OS
 - P2P
 - PaaS
@@ -60,6 +61,7 @@ This criteria describes whether a platform is open source or not and under which
 - Gateway firmware open source
 - LGPLv3
 - Libraries only
+- M.I.T
 
 #### REST API
 This criteria describes if the platform offers a REST API.[1]
